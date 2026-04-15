@@ -1,4 +1,5 @@
-# Graph-Based-Pathfinding-Optimization
+# Graph-Based Pathfinding Optimization
+
 A high-performance Python tool for implementing, benchmarking, and comparing **Dijkstra's** and **A\*** shortest-path algorithms on weighted graphs.
 
 ## Features
