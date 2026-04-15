@@ -64,7 +64,7 @@ python main.py --vertices 150 --heuristic euclidean manhattan chebyshev zero
 
 ## Requirements
 
-- Python 3.10+ (uses `match` statements, `slots`, and modern type hints)
+- Python 3.7+ (uses modern type hints via `from __future__ import annotations`)
 - No external dependencies — built entirely with the Python standard library
 
 ## Mathematical Foundation
